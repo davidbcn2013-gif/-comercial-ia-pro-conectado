@@ -1,2 +1,2 @@
 import { defineConfig } from 'vite';
-export default defineConfig({base:'/commercial-ia-pro-conectado/'});
+export default defineConfig({base:'/-comercial-ia-pro-conectado/'});
