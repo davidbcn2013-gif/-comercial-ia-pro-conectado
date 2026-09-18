@@ -1,0 +1,1 @@
+Directorio reservado para datos/seed del proyecto. Las tarifas reales deben cargarse desde la aplicación.

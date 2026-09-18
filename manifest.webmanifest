@@ -1,0 +1,9 @@
+{
+  "name":"Comercial IA PRO",
+  "short_name":"Comercial IA PRO",
+  "start_url":".",
+  "display":"standalone",
+  "background_color":"#f5f7fa",
+  "theme_color":"#0b1f33",
+  "lang":"es"
+}
